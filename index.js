@@ -11,4 +11,4 @@ _(\    |@@|
   */}).toString().split('\n').slice(1, -1).join('\n');
 
 console.log(robotStr)
-//Wow fancy seeing you here! I assume you liked the robot art. oh btw the next part of the code is "3". and lastly, if you cant find the last code, look up.
+//Wow fancy seeing you here! I assume you liked the robot art. oh btw the next part of the code is "2-3". and lastly, if you cant find the last code, look up.
